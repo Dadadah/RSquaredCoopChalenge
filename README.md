@@ -1,9 +1,13 @@
-# Jacob Schlecht
+### Jacob Schlecht
+
+---
 
 ### Education
 - B.S. Computer Science, Oklahoma State University *3.3 GPA*
 
   - Expected 2018
+  
+---
 
 ### Work Experience
 - Amazon SDE Intern *May 2017 - Aug 2017*
@@ -15,6 +19,8 @@
   - Used Machine Learning in a real world application
   
   - Programmed towards industry standards and integrated feedback
+  
+---
   
 ### Other Experience
 - Vice-President of the OSU ACM Chapter *Aug 2016 - May 2017*
@@ -38,7 +44,9 @@
   - Assisted in creation of “Knot” project using Unity software in 2015
   
   - Awarded “Most Ambitious” for Code Jam with project “The Ice Cube That Got Away” in 2016
-  
+
+---
+
 ### Projects
 - [Evolving Wombats](https://github.com/Dadadah/Jacob-Phil-Evolution-Simulator)
 
@@ -56,6 +64,8 @@
   
   - Studied Big-O notation
   
+---
+
 ### Honors, Awards, Memberships
 - Dean's Honor Roll *Aug 2014 - May 2015, Jan 2017 - Dec 2017*
 
