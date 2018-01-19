@@ -1,7 +1,7 @@
 ### Challenge
 
 #### Part one, MySQL
-```
+```SQL
 DROP TABLE `ORDER`;
 DROP TABLE `BUYER`;
 
@@ -41,7 +41,11 @@ There are two ways I would approach this, depending on what was available to me 
 - First, most text editors now come with a directory file find and replace. This is the easiest way to do this operation, however the text editor may not be available.
 
 - If this option were not available, I would write a bash script to search the file tree and replace the lines. For example:
-```
+```BASH
 #!/bin/bash
 
+cd Testing # Here is your root directory, this cannot be the same directory as the script as it will overwrite the script.
+files=$(grep -lr 'support@amazon.com')
+echo $(files) # This is just to make sure we got the right files, and in case we want to know the files.
+sed -i 's/support@amazon.com/contact@amazon.com/g' ${files}
 ```
