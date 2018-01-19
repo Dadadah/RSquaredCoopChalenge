@@ -1,6 +1,6 @@
 # Classes
 
-|Subject|Course Name|Grade|
+|Subject|Course Name                      |Grade|
 |:-----:|---------------------------------|:---:|
 |MATH   |Calculus I                       |*A*  |
 |MATH   |Calculus II                      |*B*  |
