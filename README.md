@@ -6,4 +6,4 @@
 
 [Classes](https://github.com/Dadadah/RSquaredCoopChalenge/blob/master/classes.md)
 
-[Challenge]()
+[Challenge](https://github.com/Dadadah/RSquaredCoopChallenge/blob/master/challenge.md)
