@@ -1,4 +1,4 @@
-# Classes
+### Classes
 
 |Subject|Course Name                      |Grade|
 |:-----:|---------------------------------|:---:|
